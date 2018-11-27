@@ -1,0 +1,3 @@
+[submodule "2018-elixirconfeu-pokedex-diy-elixir-graphql-react-relay-workshop"]
+	path = 2018-elixirconfeu-pokedex-diy-elixir-graphql-react-relay-workshop
+	url = git@github.com:sjchmiela/pokedex.git
